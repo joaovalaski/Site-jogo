@@ -1,0 +1,28 @@
+ Body{
+    background-color: #570e0e;
+    color: white;
+    font-family: "UnifrakturMaguntia", cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+    font-size: 25px;
+
+
+ }
+  
+ button {
+    background-color: #a71212;
+    color: white;
+     font-family: "UnifrakturMaguntia", cursive;
+     font-size: 20px;
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
