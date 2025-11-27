@@ -1,4 +1,4 @@
- Body{
+Body{
     background-color: #570e0e;
     color: white;
     font-family: "UnifrakturMaguntia", cursive;
@@ -25,4 +25,18 @@
 
 .passo.ativo {
     display:block;
+}
+
+main{
+max-width: 90%;
+text-align: center;
+
+
+}
+
+img{
+    
+    max-width: 90%;
+
+
 }
